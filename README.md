@@ -1,6 +1,6 @@
 ```bash
-#El actual repositorio, junto a este archivo, es sólo muestra. 
-#Todo el código y el repositorio original estan en privado.
+# El repositorio, junto a este archivo, es sólo muestra. 
+# Todo el código y el repositorio original estan en privado.
 ```
 # Sistema Caja Iglesia - Descripción del Proyecto
 **El sistema cumple con los siguientes requerimientos:**
