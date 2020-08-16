@@ -2,6 +2,9 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
+# Sistema Caja Iglesia - Demo
+![](Demo.gif)
+
 # Sistema Caja Iglesia - Descripción del Proyecto
 **El sistema cumple con los siguientes requerimientos:**
 - Registrar la entrada de las canastas por cada servicio incluyendo personas desconocidas, y como tambien miembros.
@@ -21,6 +24,3 @@ Para clonar y ejecutar el proyecto necesitas instalar primero [Git](https://git-
 git clone https://github.com/KeyCuevasMelgarejo/SISTEMA-CAJA-IGLESIA
 # Abrir los archivos .sql y ejecuta los scripts dentro de Microsoft SQL Server
 ```
-
-# Sistema Caja Iglesia - Demo
-![](Demo.gif)
