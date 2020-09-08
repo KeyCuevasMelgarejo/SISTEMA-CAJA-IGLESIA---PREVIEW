@@ -2,7 +2,7 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
-# Sistema Caja Iglesia - Demo
+# Sistema Caja Iglesia - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FSISTEMA-CAJA-IGLESIA___PREVIEW)
 ![](Demo.gif)
 
 # Sistema Caja Iglesia - Descripción del Proyecto
